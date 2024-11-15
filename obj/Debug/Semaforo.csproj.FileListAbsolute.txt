@@ -1,0 +1,33 @@
+C:\Users\navegador\Desktop\24\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\navegador\Desktop\24\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\navegador\Desktop\24\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\navegador\Desktop\24\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\navegador\Desktop\24\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\navegador\Desktop\24\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\25\Semaforo\bin\Debug\Semaforo.exe.config
+G:\!! Práctica Profesional\25\Semaforo\obj\Debug\Semaforo.exe
+G:\!! Práctica Profesional\25\Semaforo\obj\Debug\Semaforo.pdb
+G:\!! Práctica Profesional\25\Semaforo\bin\Debug\Semaforo.exe
+G:\!! Práctica Profesional\25\Semaforo\bin\Debug\Semaforo.pdb
+G:\!! Práctica Profesional\25\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\bin\Debug\Semaforo.exe.config
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\bin\Debug\Semaforo.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\bin\Debug\Semaforo.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\obj\Debug\Semaforo.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\obj\Debug\Semaforo.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\25\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\bin\Debug\Semaforo.exe.config
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\bin\Debug\Semaforo.exe
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\bin\Debug\Semaforo.pdb
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\obj\Debug\Semaforo.exe
+D:\Facultad\Colegio universitario\Prácticas Profesionalizantes III\2810\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\nicok\OneDrive\Desktop\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\nicok\OneDrive\Desktop\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\nicok\OneDrive\Desktop\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\nicok\OneDrive\Desktop\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+C:\Users\nicok\OneDrive\Desktop\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\nicok\OneDrive\Desktop\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\nicok\OneDrive\Desktop\Semaforo\obj\Debug\Semaforo.pdb
